@@ -28,7 +28,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg"></code>
-
+<code><img height="50" src="https://dataera.com.tr/wp-content/uploads/2018/07/mssql-logo-1-820x450.jpg"></code>
 
 ![Zeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=karazeki&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karazeki&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
