@@ -3,7 +3,7 @@
 
 - 💻 I am a Software Engineer at **Innovile**
 
-[![Linkedin Badge](https://img.shields.io/badge/-mehmetzekikara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mehmetzekikara/)]
+[![Linkedin Badge](https://img.shields.io/badge/-mehmetzekikara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mehmetzekikara/)
 [![Gmail Badge](https://img.shields.io/badge/-karamehmetzeki506@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karamehmetzeki506@gmail.com)](mailto:mehmetzekikara)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://https://medium.com/@karamehmetzeki506)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/mehmetzekikara/)
